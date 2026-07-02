@@ -6698,4 +6698,23 @@ window.profyCountry = "IN"
         customerAccountUrl
       };
       AIR_REVIEWS.product?.collections?.forEach(collection => {
-        AIR_REVIEWS.collections.push(collection.id.replace('$', '\\$')
+        AIR_REVIEWS.collections.push(collection.id.replace('$', '\\$'));
+        AIR_REVIEWS.collectionsName.push(collection.title.replace('$', '\\$'));
+      });
+
+      window.AIR_REVIEWS.shopData = window.AIR_REVIEWS.shopData || {};
+      console.log("Air product reviews check 0, false");
+    }
+  } catch (e) {
+    console.error('Error assigning avada air reivews variable' + e);
+  }
+</script>
+
+
+
+
+</div><script src="../../cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+</body>
+
+<!-- Mirrored from www.postering.store/products/your-tribal-chief-01-roman-reigns-set-3-piece-set by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jul 2026 12:04:14 GMT -->
+</html>
