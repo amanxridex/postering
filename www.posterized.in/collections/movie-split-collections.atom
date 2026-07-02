@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.posterized.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.posterized.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.posterized.in/collections/movie-split-collections.atom"/>
+  <title>Posterized</title>
+  <updated>2026-01-24T13:05:43+05:30</updated>
+  <author>
+    <name>Posterized</name>
+  </author>
+  <entry>
+    <id>https://www.posterized.in/products/10135317184808</id>
+    <published>2026-01-24T13:05:43+05:30</published>
+    <updated>2026-01-24T13:05:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/no-excuses-the-lone-penguin-motivational-3-piece-set"/>
+    <title>No Excuses | The Lone PENGUIN | Motivational | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/NoExcusesTheLonePENGUINMotivational_2.webp?v=1769240044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/no-excuses-the-lone-penguin-motivational-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="52" data-end="543">Bring a sharp, no-nonsense mindset to your space with the <strong data-start="110" data-end="146">“NO EXCUSES” Motivational Poster</strong>—a cinematic Antarctic landscape built for people who want progress, not comfort. The scene is intentionally minimal and powerful: an endless snowfield, distant glacier-cut mountains, and a lone penguin walking forward with a quiet trail behind it. It’s a visual metaphor for discipline—showing that real momentum is created when the environment is harsh, the path is long, and nobody is watching.</p>
+<p data-start="545" data-end="941">The bold, oversized <strong data-start="565" data-end="579">NO EXCUSES</strong> typography is designed to hit instantly from across the room, making it perfect for daily reinforcement in high-focus spaces like a <strong data-start="712" data-end="772">home office, study setup, gym, workstation, or dorm room</strong>. The supporting quote adds depth without clutter, keeping the overall look clean, premium, and modern—more like a cinematic film poster than a basic motivational print.</p>
+<p data-start="943" data-end="1261">Whether you’re building habits, chasing a goal, preparing for exams, working on your body, or simply upgrading your room aesthetics, this artwork is made to keep you moving when motivation fades. It also makes a strong gift for students, creators, entrepreneurs, athletes, and anyone who respects consistency and grit.</p>
+<p data-start="1263" data-end="1416" data-is-last-node="" data-is-only-node=""><strong data-start="1263" data-end="1276">Best for:</strong> Office wall decor, gym motivation, study room focus, minimalist aesthetic rooms, productivity corners, and gift-worthy goal-setting spaces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>aesthetic room decor</s:tag>
+    <s:tag>antarctic poster</s:tag>
+    <s:tag>antarctica wall art</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>BEST SELLING REPORT</s:tag>
+    <s:tag>black and white vibe</s:tag>
+    <s:tag>blue tone wall art</s:tag>
+    <s:tag>cinematic wall art</s:tag>
+    <s:tag>discipline mindset</s:tag>
+    <s:tag>dorm room decor</s:tag>
+    <s:tag>gym wall decor</s:tag>
+    <s:tag>inspirational wall art</s:tag>
+    <s:tag>minimalist poster</s:tag>
+    <s:tag>modern typography poster</s:tag>
+    <s:tag>motivation quote art</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>mountain landscape wall art</s:tag>
+    <s:tag>nature wall art</s:tag>
+    <s:tag>no excuses poster</s:tag>
+    <s:tag>office wall decor</s:tag>
+    <s:tag>penguin wall art</s:tag>
+    <s:tag>productivity decor</s:tag>
+    <s:tag>quote poster</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>snow landscape poster</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>study room decor</s:tag>
+    <s:tag>winter wall art</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/10126922481960</id>
+    <published>2026-01-09T15:47:56+05:30</published>
+    <updated>2026-01-09T15:47:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/i-m-not-a-traitor-peaky-blinders-series-3-piece-set"/>
+    <title>I m Not A Traitor | Peaky Blinders Series | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/thw1.jpg?v=1767953487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/i-m-not-a-traitor-peaky-blinders-series-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="287" data-end="606">Step into a world ruled by loyalty, power, and unshakable resolve with <strong data-start="358" data-end="417">I’m Not a Traitor | Peaky Blinders Series | 3 Piece Set</strong>. Set against a rain-soaked industrial street drenched in deep crimson tones, this artwork captures a lone figure walking forward with calm authority — fearless, composed, and unapologetic.</p>
+<p data-start="608" data-end="930">The bold red typography slicing through the shadows reinforces the message of defiance and class, while the dramatic lighting, smoke-filled background, and period detailing create a raw cinematic atmosphere. Every element reflects themes of honor, control, ambition, and standing one’s ground in a world built on betrayal.</p>
+<p data-start="932" data-end="1233">Designed to command attention, this 3-piece set is perfect for modern interiors, offices, studios, gaming rooms, and statement walls. Printed with a premium matte finish to enhance depth, contrast, and texture, this artwork delivers a powerful visual presence that feels intense, iconic, and timeless.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>peaky blinder</s:tag>
+    <s:tag>Peaky Blinders</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>thomas shelby</s:tag>
+    <s:tag>universe wall art</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126922481960</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126922481960</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126922481960</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/10126306115880</id>
+    <published>2026-01-08T16:24:54+05:30</published>
+    <updated>2026-01-08T16:24:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/conquer-the-void-interstellar-motivational-movie-3-piece-set"/>
+    <title>Conquer the Void | Interstellar | Motivational Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/1_e3e7e8fc-3288-48e2-af7e-b14a5026c8d5.webp?v=1767869636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/conquer-the-void-interstellar-motivational-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="322" data-end="639">Step into the infinite with <strong>Conquer the Void | Interstellar | Motivational Movie | 3 Piece Set</strong>, a striking monochrome cosmic artwork inspired by the awe and mystery of deep space. Set against a vast star field, a lone cosmic traveler stands before a colossal gravitational phenomenon, symbolizing courage, curiosity, and humanity’s endless pursuit of the unknown.</p>
+<p data-start="641" data-end="961">The dramatic contrast of light and shadow, combined with intricate space textures and cinematic scale, makes this artwork powerful yet minimal. It evokes themes of exploration, insignificance, and transcendence — perfect for science fiction enthusiasts, space lovers, and those drawn to bold, thought-provoking wall art.</p>
+<p data-start="963" data-end="1272">Designed to command attention in modern interiors, studios, gaming rooms, and creative spaces, this piece brings a sense of scale and wonder to any wall. Printed with a premium matte finish to preserve fine details and depth, it delivers an immersive visual experience that feels both futuristic and timeless.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>BEST SELLING REPORT</s:tag>
+    <s:tag>black hole artwork</s:tag>
+    <s:tag>cinematic sci fi artwork</s:tag>
+    <s:tag>cosmic explorer art</s:tag>
+    <s:tag>cosmic wall art</s:tag>
+    <s:tag>futuristic wall decor</s:tag>
+    <s:tag>galaxy wall art</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>minimal sci fi art</s:tag>
+    <s:tag>modern cosmic art</s:tag>
+    <s:tag>monochrome space art</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sci fi wall decor</s:tag>
+    <s:tag>silver suffer</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>space aesthetic decor</s:tag>
+    <s:tag>space sci fi art</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>universe wall art</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/10112608370984</id>
+    <published>2025-12-25T12:34:03+05:30</published>
+    <updated>2025-12-25T12:34:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/the-golden-trio-harrypotter-friendship-art-poster-3-piece-set"/>
+    <title>The Golden Trio | Harrypotter Friendship Art | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/TheGoldenTrioHarrypotterFriendshipArtPoster3PieceSet_1.webp?v=1766646205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/the-golden-trio-harrypotter-friendship-art-poster-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="335" data-end="509">Celebrate the heart of the wizarding world with <strong data-start="383" data-end="404">“The Golden Trio”</strong>, a soft, emotional fan-art illustration inspired by the timeless friendship of Harry, Hermione, and Ron.</p>
+<p data-start="511" data-end="855">Rendered in a delicate watercolor style with warm golden light, this artwork captures a quiet, meaningful moment — smiles filled with hope, loyalty, and memories that last forever. The gentle expressions, flowing textures, and subtle magical atmosphere make this piece feel nostalgic, comforting, and deeply personal for every Harry Potter fan.</p>
+<p data-start="857" data-end="1090">Perfect for bedrooms, study spaces, reading corners, or gift collections, this poster is a reminder that <em data-start="962" data-end="1005">the ones who love us never truly leave us</em>. A must-have for Potterheads who value friendship, courage, and magic beyond spells.</p>
+<p data-start="1092" data-end="1201">Printed on premium matte paper for a soft, artistic finish that enhances the illustration’s depth and warmth.<br><br>This is an unofficial fan-made artwork. Not affiliated with or endorsed by Warner Bros. or J.K. Rowling.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>aesthetic wall decor</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>fantasy wall poster</s:tag>
+    <s:tag>friendship art print</s:tag>
+    <s:tag>golden trio art</s:tag>
+    <s:tag>harry potter</s:tag>
+    <s:tag>harry potter fan art</s:tag>
+    <s:tag>harry potter gift</s:tag>
+    <s:tag>harry potter poster</s:tag>
+    <s:tag>harry ron hermione</s:tag>
+    <s:tag>HARRYPOTTER SET#01</s:tag>
+    <s:tag>hogwarts poster</s:tag>
+    <s:tag>magical illustration</s:tag>
+    <s:tag>movie fan art poster</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>potter head</s:tag>
+    <s:tag>potterhead wall art</s:tag>
+    <s:tag>SERIES</s:tag>
+    <s:tag>SERIES 3</s:tag>
+    <s:tag>Series poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>watercolor fantasy art</s:tag>
+    <s:tag>wizarding world poster</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10112608370984</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10112608370984</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10112608370984</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9960800616744</id>
+    <published>2025-11-15T17:55:29+05:30</published>
+    <updated>2025-11-15T17:55:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/the-shawshank-redemption-movie-3-piece-set"/>
+    <title>The Shawshank Redemption | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/w_c65b7809-0e81-47c6-b63c-92af62939004.webp?v=1763209508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/the-shawshank-redemption-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring home one of cinema’s most iconic moments with this 3-piece split poster inspired by *The Shawshank Redemption*. The warm glowing tones, powerful silhouette and the quote “Hope can set you free, but fear can hold you prisoner” create a bold and emotional centrepiece for any room.</p>
+<p>Printed on premium 300 GSM matte photo paper, each panel delivers rich colours, sharp details and a smooth anti-glare finish. The 3-piece split layout adds depth and presence, making it perfect for bedrooms, studios, offices or cinematic room setups.</p>
+<p>A must-have for movie lovers, motivational art fans and anyone who connects with the timeless message of hope, freedom and resilience.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 piece split poster</s:tag>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_f1</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>baba yaha</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>cinematic poster</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>he&apos;s flying</s:tag>
+    <s:tag>hope can set you free</s:tag>
+    <s:tag>inspirational poster</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>john</s:tag>
+    <s:tag>JOHN WICK</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>motivational wall art</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>movie wall art</s:tag>
+    <s:tag>redemption poster</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>room decor</s:tag>
+    <s:tag>shawshank poster</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>whats happening</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960800616744</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960800616744</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960800616744</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9960793997608</id>
+    <published>2025-11-15T17:51:43+05:30</published>
+    <updated>2025-11-15T17:51:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/hope-never-dies-superhero-aesthetic-poster-movie-3-piece-set"/>
+    <title>Hope Never Dies | SuperHero Aesthetic | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/W.webp?v=1763209219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/hope-never-dies-superhero-aesthetic-poster-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your wall with this stunning “Hope Never Dies” hero-themed poster. Featuring a powerful silhouette of a flying hero surrounded by vibrant red, blue and golden tones, this artwork brings a bold and inspiring vibe to any room.</p>
+<p>Printed on premium 300 GSM matte photo paper, the colours appear rich, sharp and fade-resistant. The high-definition detailing and soft texture make it perfect for bedroom décor, gaming setups, living rooms or inspirational workspace walls.</p>
+<p>A great pick for anyone who loves motivational art, superhero-inspired aesthetics or dynamic, mood-boosting posters that stand out instantly.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>300gsm poster</s:tag>
+    <s:tag>3_split_DC</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>aesthetic room decor</s:tag>
+    <s:tag>bold artwork</s:tag>
+    <s:tag>cinematic poster</s:tag>
+    <s:tag>flying hero art</s:tag>
+    <s:tag>hd poster</s:tag>
+    <s:tag>hero poster</s:tag>
+    <s:tag>hero silhouette</s:tag>
+    <s:tag>hope never dies</s:tag>
+    <s:tag>inspirational poster</s:tag>
+    <s:tag>living room poster</s:tag>
+    <s:tag>motivational split poster</s:tag>
+    <s:tag>motivational wall art</s:tag>
+    <s:tag>premium wall poster</s:tag>
+    <s:tag>red blue aesthetic</s:tag>
+    <s:tag>room decor</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>superhero aesthetic</s:tag>
+    <s:tag>vertical poster</s:tag>
+    <s:tag>VERTICAL SPLIT</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960793997608</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960793997608</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9960793997608</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9870477197608</id>
+    <published>2025-10-30T11:48:07+05:30</published>
+    <updated>2025-10-30T11:48:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/man-with-a-plan-jd-00-thalapathy-vijay-master-movie-3-piece-set"/>
+    <title>MAN WITH A PLAN | JD #00 | Thalapathy Vijay MASTER Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/jdw1.jpg?v=1761805027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/man-with-a-plan-jd-00-thalapathy-vijay-master-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>MAN WITH A PLAN | JD #00 | Thalapathy Vijay MASTER Movie | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_f1</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>baba yaha</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>fight club</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>he&apos;s flying</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>JD</s:tag>
+    <s:tag>JD POSTER</s:tag>
+    <s:tag>john</s:tag>
+    <s:tag>JOHN WICK</s:tag>
+    <s:tag>master</s:tag>
+    <s:tag>MASTER BLASTER</s:tag>
+    <s:tag>MASTER JD</s:tag>
+    <s:tag>MASTER MOVIE POSTER</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>tamil movie poster</s:tag>
+    <s:tag>thalapathy vijay</s:tag>
+    <s:tag>VIJAY</s:tag>
+    <s:tag>vijay sethupathi</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9870477197608</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9870477197608</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9870477197608</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9791018402088</id>
+    <published>2025-09-02T18:14:25+05:30</published>
+    <updated>2025-09-02T18:14:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/avalathigaram-aaranya-kaandam-movie-3-piece-set"/>
+    <title>Avalathigaram | Aaranya Kaandam | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-split.webp?v=1756816815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/avalathigaram-aaranya-kaandam-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Avalathigaram | Aaranya Kaandam | Movie | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>aaranya kaandam</s:tag>
+    <s:tag>aval</s:tag>
+    <s:tag>Avalathigaram</s:tag>
+    <s:tag>baba yaha</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>feminine</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>GIRLS</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>stargirl</s:tag>
+    <s:tag>Super girl</s:tag>
+    <s:tag>tamil</s:tag>
+    <s:tag>tamil actress</s:tag>
+    <s:tag>tamil directors</s:tag>
+    <s:tag>tamil movie poster</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9791018402088</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9791018402088</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9791018402088</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9790795809064</id>
+    <published>2025-09-02T14:46:13+05:30</published>
+    <updated>2025-09-02T14:46:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/agent-wick-john-wick-movie-3-piece-set"/>
+    <title>Agent Wick | John Wick | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-splitcopy_d021f19f-1752-48a0-9d13-46ff49d2c9f0.webp?v=1756804421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/agent-wick-john-wick-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Agent Wick | John Wick | Movie | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_f1</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>baba yaha</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>he&apos;s flying</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>john</s:tag>
+    <s:tag>JOHN WICK</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>whats happening</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9790795809064</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9790795809064</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9790795809064</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9720674353448</id>
+    <published>2025-07-25T18:23:20+05:30</published>
+    <updated>2025-07-25T18:23:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/money-3-piece-set"/>
+    <title>MONEY x POWER x RESPECT | Benjamin Franklin | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/NEWWALLSPILT2.webp?v=1753448160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/money-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>MONEY x POWER x RESPECT | Benjamin Franklin | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>CLASSIC MOVIES</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>inspiration movie</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>Wolf Of Wall Street</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9720674353448</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9720674353448</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9720674353448</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9695572492584</id>
+    <published>2025-06-30T20:19:24+05:30</published>
+    <updated>2025-06-30T20:19:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/f1-the-movie-movie-3-piece-set"/>
+    <title>F1 The Movie | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/WallF1TheMovieMovie3PieceSet_1.jpg?v=1751294943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/f1-the-movie-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>F1 The Movie | Movie | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_f1</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>he&apos;s flying</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>whats happening</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9695572492584</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9695572492584</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9695572492584</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9683411665192</id>
+    <published>2025-06-13T18:27:11+05:30</published>
+    <updated>2025-06-13T18:27:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/interstellar-movie-3-piece-set"/>
+    <title>Interstellar | Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/WallInterstellarMovie3PieceSet_1.jpg?v=1749819463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/interstellar-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Interstellar | Movie | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>BEST SELLING REPORT</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9683411665192</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9683411665192</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9683411665192</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9681834967336</id>
+    <published>2025-06-12T16:54:00+05:30</published>
+    <updated>2025-06-12T16:54:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/never-quit-kung-fu-panda-motivation-3-piece-set"/>
+    <title>Never Quit | Kung Fu Panda | Motivation | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/WallNeverQuitKungFuPandaMotivation3PieceSet_2.jpg?v=1749727415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/never-quit-kung-fu-panda-motivation-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Never Quit | Kung Fu Panda | Motivation | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>motivational split poster</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>Strength and Devotion Poster</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9681834967336</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9681834967336</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9681834967336</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9680105931048</id>
+    <published>2025-06-10T12:25:39+05:30</published>
+    <updated>2025-06-10T12:25:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/hope-wall-e-motivation-3-piece-set"/>
+    <title>Hope | Wall E | Motivation | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/WallHopeWallEMotivation3PieceSet_2.jpg?v=1749538504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/hope-wall-e-motivation-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Hope | Wall E | Motivation | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_aesthetics</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>aesthetic</s:tag>
+    <s:tag>animated movie</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>Hope</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>motivational split poster</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>stay hard</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9680105931048</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9680105931048</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9680105931048</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9678549516584</id>
+    <published>2025-06-07T10:40:09+05:30</published>
+    <updated>2025-06-07T10:40:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/sydney-sweeney-the-white-lotus-01-3-piece-set"/>
+    <title>Sydney Sweeney | The White Lotus #01 | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-split_2_8725edc7-2a7b-4195-8f16-7c9afe1d83e5.jpg?v=1749272956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/sydney-sweeney-the-white-lotus-01-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Sydney Sweeney | The White Lotus #01 | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>ANA DE ARMAS</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>SERIES</s:tag>
+    <s:tag>SERIES 3</s:tag>
+    <s:tag>Series poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>Sydney Sweeney</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9678549516584</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9678549516584</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9678549516584</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9651531219240</id>
+    <published>2025-05-17T18:36:41+05:30</published>
+    <updated>2025-05-17T18:36:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/ana-de-armas-blonde-01-3-piece-set"/>
+    <title>Ana de Armas | Blonde #01 | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-splitAnadeArmasBlonde_013PieceSet_1.jpg?v=1747487176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/ana-de-armas-blonde-01-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Ana de Armas | Blonde #01 | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>ANA DE ARMAS</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>harry potter</s:tag>
+    <s:tag>HARRYPOTTER SET#01</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>potter head</s:tag>
+    <s:tag>SERIES</s:tag>
+    <s:tag>SERIES 3</s:tag>
+    <s:tag>Series poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9651531219240</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9651531219240</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9651531219240</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9639467548968</id>
+    <published>2025-04-30T10:45:25+05:30</published>
+    <updated>2025-04-30T10:45:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/enter-the-dragon-01-bruce-lee-3-piece-set"/>
+    <title>Enter the Dragon #01 | Bruce Lee | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-split2_acf17eb8-bbcf-40c0-9b67-fb5aecc64568.jpg?v=1745990082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/enter-the-dragon-01-bruce-lee-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Enter the Dragon #01 | Bruce Lee | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>BOXING POSTER</s:tag>
+    <s:tag>bruce lee</s:tag>
+    <s:tag>DRAGON</s:tag>
+    <s:tag>Enter the Dragon</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>stay hard</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9639467548968</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9639467548968</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9639467548968</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9613477773608</id>
+    <published>2025-04-01T19:47:38+05:30</published>
+    <updated>2025-04-01T19:47:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/destiny-harrypotter-01-3-piece-set"/>
+    <title>Destiny | Harrypotter #01 | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/DestinyWall-splitwhite.jpg?v=1743517010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/destiny-harrypotter-01-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Destiny | Harrypotter #01 | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>harry potter</s:tag>
+    <s:tag>HARRYPOTTER SET#01</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>potter head</s:tag>
+    <s:tag>SERIES</s:tag>
+    <s:tag>SERIES 3</s:tag>
+    <s:tag>Series poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9613477773608</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9613477773608</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9613477773608</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9522993660200</id>
+    <published>2024-12-20T17:47:14+05:30</published>
+    <updated>2024-12-20T17:47:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/hustle-the-wolf-of-wall-street-movie-set-pack-of-3"/>
+    <title>HUSTLE | THE WOLF OF WALL STREET | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/newwall2_8a177065-e0a0-47f8-a8df-fd69e804218b.jpg?v=1736617778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/hustle-the-wolf-of-wall-street-movie-set-pack-of-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>HUSTLE | THE WOLF OF WALL STREET | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>CLASSIC MOVIES</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>inspiration movie</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>movie poster</s:tag>
+    <s:tag>MOVIE POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>Wolf Of Wall Street</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9522993660200</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9522993660200</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9522993660200</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/8873240461608</id>
+    <published>2024-01-29T13:16:51+05:30</published>
+    <updated>2024-01-29T13:16:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/copy-of-godzilla-king-of-the-monster-set-godzilla-movie-posterpack-of-4"/>
+    <title>Godzilla x Kong | The New Empire | Movie Pack Of 3</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/kongwall.jpg?v=1736617022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/copy-of-godzilla-king-of-the-monster-set-godzilla-movie-posterpack-of-4">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Godzilla x Kong | The New Empire | Movie Pack Of 3</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>Godzilla</s:tag>
+    <s:tag>Godzilla x Kong</s:tag>
+    <s:tag>king kong</s:tag>
+    <s:tag>kong</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>The New Empire</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/8873240461608</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8873240461608</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8873240461608</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/8856757174568</id>
+    <published>2024-01-19T00:31:17+05:30</published>
+    <updated>2024-01-19T00:31:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/fast-and-furious-7-ff7-set-of-3-poster"/>
+    <title>Fast and Furious 7 | FF7 | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/ff7.jpg?v=1736617587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/fast-and-furious-7-ff7-set-of-3-poster">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Fast and Furious 7 | FF7 | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/8856757174568</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8856757174568</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8856757174568</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

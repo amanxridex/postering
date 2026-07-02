@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.posterized.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.posterized.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.posterized.in/collections/pack-of-7.atom"/>
+  <title>Posterized</title>
+  <updated>2023-08-02T10:57:09+05:30</updated>
+  <author>
+    <name>Posterized</name>
+  </author>
+  <entry>
+    <id>https://www.posterized.in/products/8438691496232</id>
+    <published>2023-08-02T10:57:09+05:30</published>
+    <updated>2023-08-02T10:57:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/goat-football-set-03-collectable-set-football-combo"/>
+    <title>GOAT FootBall Set #03 | FOOTBALL COMBO | 7 Piece Set</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Footballset2.jpg?v=1736617662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            495.00 - 645.00
+            <a href="https://www.posterized.in/products/goat-football-set-03-collectable-set-football-combo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>GOAT FootBall Set #03 | COLLECTABLE SET | FOOTBALL COMBO</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COMBO</s:tag>
+    <s:tag>football</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/8438691496232</id>
+      <title>A4</title>
+      <s:price currency="INR">495.00</s:price>
+      <s:sku/>
+      <s:grams>133</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8438691496232</id>
+      <title>A3</title>
+      <s:price currency="INR">545.00</s:price>
+      <s:sku/>
+      <s:grams>252</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8438691496232</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">645.00</s:price>
+      <s:sku/>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+</feed>

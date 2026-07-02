@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.posterized.in	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZ8dIgeJAAEApjgm4MNqRIQkEt93MhyKGOAsjkmntVpyvoc0lH5rNbq7IGTiMEagAkG_8eP0kfdpQ5oBz6FQz2uJZH1ssgAcOZPm0tw:
+www.posterized.in	TRUE	/	FALSE	1999999999	_shopify_marketing	:AZ8dIgeJAAEAnfeEVmO65HCg0UHNugDJpnYIi_bV27RHAKrbAZmsz0W7woanFVxjjLR-3CFZzhktDlfbcESaxe4JzD4:
+www.posterized.in	TRUE	/	FALSE	1999999999	_shopify_essential	:AZ8dIgY_AAEAM-iGlK8g65CweNmtXqKWBmq7EpkMsyYZ_VWc74HyD2N691c7PwfXWuUHssU7uMmvKYHgJJQXK7kZB16MLU6ctoC67sW-2fkk4T61SmX2s1Ywb9hjZc7KCo4X2GyzKxdUZ1ir7iTD9OwemYThNDEAW9Gcoxvpb9W4XDQTIobd2oMOwOv4YqqGtcHZuJBC3yWJXi885Ohcd2MHnDnu8fLea8Q9NmONiFS_-xkM31Y9mwXTrzZ2WD0Y8tFH4Q5ojfN9V7gHEQpR2Gi1S4xYOXjB9rW_PfxdZB5NdLUWVwBGCf37k8USD19f3KACXsajMQs2ZkS2nJgeEiyUqVssv5c7tMU1xiA7fGisJZS6kRDmIVf2D9xXoZBCAT7zm6iBDaoMcRpjHzgOHHydZnRM_yPxk44dy6Sy22qb:
+www.posterized.in	TRUE	/	FALSE	1999999999	Priority	High
+www.posterized.in	TRUE	/	FALSE	1999999999	localization	IN
+posterized.in	TRUE	/	FALSE	1999999999	_shopify_y	febeaa2f-c58f-4cef-8234-8400d64dc4db
+posterized.in	TRUE	/	FALSE	1999999999	_shopify_s	a945460f-6e5a-4ebe-b660-ca7e0d981db9
+www.posterized.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+

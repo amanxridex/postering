@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.posterized.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.posterized.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.posterized.in/collections/gym.atom"/>
+  <title>Posterized</title>
+  <updated>2026-01-24T13:05:43+05:30</updated>
+  <author>
+    <name>Posterized</name>
+  </author>
+  <entry>
+    <id>https://www.posterized.in/products/10135317184808</id>
+    <published>2026-01-24T13:05:43+05:30</published>
+    <updated>2026-01-24T13:05:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/no-excuses-the-lone-penguin-motivational-3-piece-set"/>
+    <title>No Excuses | The Lone PENGUIN | Motivational | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/NoExcusesTheLonePENGUINMotivational_2.webp?v=1769240044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/no-excuses-the-lone-penguin-motivational-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="52" data-end="543">Bring a sharp, no-nonsense mindset to your space with the <strong data-start="110" data-end="146">“NO EXCUSES” Motivational Poster</strong>—a cinematic Antarctic landscape built for people who want progress, not comfort. The scene is intentionally minimal and powerful: an endless snowfield, distant glacier-cut mountains, and a lone penguin walking forward with a quiet trail behind it. It’s a visual metaphor for discipline—showing that real momentum is created when the environment is harsh, the path is long, and nobody is watching.</p>
+<p data-start="545" data-end="941">The bold, oversized <strong data-start="565" data-end="579">NO EXCUSES</strong> typography is designed to hit instantly from across the room, making it perfect for daily reinforcement in high-focus spaces like a <strong data-start="712" data-end="772">home office, study setup, gym, workstation, or dorm room</strong>. The supporting quote adds depth without clutter, keeping the overall look clean, premium, and modern—more like a cinematic film poster than a basic motivational print.</p>
+<p data-start="943" data-end="1261">Whether you’re building habits, chasing a goal, preparing for exams, working on your body, or simply upgrading your room aesthetics, this artwork is made to keep you moving when motivation fades. It also makes a strong gift for students, creators, entrepreneurs, athletes, and anyone who respects consistency and grit.</p>
+<p data-start="1263" data-end="1416" data-is-last-node="" data-is-only-node=""><strong data-start="1263" data-end="1276">Best for:</strong> Office wall decor, gym motivation, study room focus, minimalist aesthetic rooms, productivity corners, and gift-worthy goal-setting spaces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>aesthetic room decor</s:tag>
+    <s:tag>antarctic poster</s:tag>
+    <s:tag>antarctica wall art</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>BEST SELLING REPORT</s:tag>
+    <s:tag>black and white vibe</s:tag>
+    <s:tag>blue tone wall art</s:tag>
+    <s:tag>cinematic wall art</s:tag>
+    <s:tag>discipline mindset</s:tag>
+    <s:tag>dorm room decor</s:tag>
+    <s:tag>gym wall decor</s:tag>
+    <s:tag>inspirational wall art</s:tag>
+    <s:tag>minimalist poster</s:tag>
+    <s:tag>modern typography poster</s:tag>
+    <s:tag>motivation quote art</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>mountain landscape wall art</s:tag>
+    <s:tag>nature wall art</s:tag>
+    <s:tag>no excuses poster</s:tag>
+    <s:tag>office wall decor</s:tag>
+    <s:tag>penguin wall art</s:tag>
+    <s:tag>productivity decor</s:tag>
+    <s:tag>quote poster</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>snow landscape poster</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>study room decor</s:tag>
+    <s:tag>winter wall art</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10135317184808</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/10126306115880</id>
+    <published>2026-01-08T16:24:54+05:30</published>
+    <updated>2026-01-08T16:24:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/conquer-the-void-interstellar-motivational-movie-3-piece-set"/>
+    <title>Conquer the Void | Interstellar | Motivational Movie | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/1_e3e7e8fc-3288-48e2-af7e-b14a5026c8d5.webp?v=1767869636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/conquer-the-void-interstellar-motivational-movie-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="322" data-end="639">Step into the infinite with <strong>Conquer the Void | Interstellar | Motivational Movie | 3 Piece Set</strong>, a striking monochrome cosmic artwork inspired by the awe and mystery of deep space. Set against a vast star field, a lone cosmic traveler stands before a colossal gravitational phenomenon, symbolizing courage, curiosity, and humanity’s endless pursuit of the unknown.</p>
+<p data-start="641" data-end="961">The dramatic contrast of light and shadow, combined with intricate space textures and cinematic scale, makes this artwork powerful yet minimal. It evokes themes of exploration, insignificance, and transcendence — perfect for science fiction enthusiasts, space lovers, and those drawn to bold, thought-provoking wall art.</p>
+<p data-start="963" data-end="1272">Designed to command attention in modern interiors, studios, gaming rooms, and creative spaces, this piece brings a sense of scale and wonder to any wall. Printed with a premium matte finish to preserve fine details and depth, it delivers an immersive visual experience that feels both futuristic and timeless.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Anime</s:tag>
+    <s:tag>3_split_GYM</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>3_split_Movie</s:tag>
+    <s:tag>3_split_Series</s:tag>
+    <s:tag>believe yourself</s:tag>
+    <s:tag>BEST SELLING REPORT</s:tag>
+    <s:tag>black hole artwork</s:tag>
+    <s:tag>cinematic sci fi artwork</s:tag>
+    <s:tag>cosmic explorer art</s:tag>
+    <s:tag>cosmic wall art</s:tag>
+    <s:tag>futuristic wall decor</s:tag>
+    <s:tag>galaxy wall art</s:tag>
+    <s:tag>gym split posters</s:tag>
+    <s:tag>i can do this all day</s:tag>
+    <s:tag>INTERSTELLAR</s:tag>
+    <s:tag>minimal sci fi art</s:tag>
+    <s:tag>modern cosmic art</s:tag>
+    <s:tag>monochrome space art</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>RISE</s:tag>
+    <s:tag>Rock</s:tag>
+    <s:tag>sci fi wall decor</s:tag>
+    <s:tag>silver suffer</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>space aesthetic decor</s:tag>
+    <s:tag>space sci fi art</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>universe wall art</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10126306115880</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/10102431744296</id>
+    <published>2025-12-15T18:07:49+05:30</published>
+    <updated>2025-12-15T18:07:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/batman-begins-dark-knight-motivational-batman-3-piece-set"/>
+    <title>Batman Begins | Dark Knight | Motivational | BATMAN | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/BatmanBeginsDarkKnightMotivationalBATMAN3PieceSet_2.webp?v=1765802244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/batman-begins-dark-knight-motivational-batman-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A bold and powerful vertical poster inspired by the Dark Knight, featuring the striking “Every empire starts alone.” typography and a gritty black-and-white hero silhouette. Designed to bring strength, resilience and raw attitude to any room setup.</p>
+<p>Printed on premium 300 GSM matte photo paper, this high-definition artwork delivers razor-sharp details, deep contrast and a smooth anti-glare finish—perfect for bedrooms, gaming rooms, studios or anyone who loves dark, motivational aesthetics.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>300gsm poster</s:tag>
+    <s:tag>3_split_DC</s:tag>
+    <s:tag>BATMAN</s:tag>
+    <s:tag>batman poster</s:tag>
+    <s:tag>BEST BATMAN POSTERS</s:tag>
+    <s:tag>BRUCE WAYNE</s:tag>
+    <s:tag>Christian Bale</s:tag>
+    <s:tag>cinematic artwork</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>dark aesthetic poster</s:tag>
+    <s:tag>dark knight</s:tag>
+    <s:tag>dark knight poster</s:tag>
+    <s:tag>DARK KNIGHT RISES</s:tag>
+    <s:tag>DC</s:tag>
+    <s:tag>DCU</s:tag>
+    <s:tag>Every empire starts alone.</s:tag>
+    <s:tag>gaming room decor</s:tag>
+    <s:tag>gotham inspired art</s:tag>
+    <s:tag>gothic room decor</s:tag>
+    <s:tag>hero silhouette art</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>motivational wall art</s:tag>
+    <s:tag>premium wall poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>superhero poster</s:tag>
+    <s:tag>The batman</s:tag>
+    <s:tag>unstoppable poster</s:tag>
+    <s:tag>vertical poster</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/10102431744296</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10102431744296</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/10102431744296</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9984323453224</id>
+    <published>2025-11-17T17:24:33+05:30</published>
+    <updated>2025-11-17T17:24:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/unstoppable-dark-knight-motivational-batman-3-piece-set"/>
+    <title>Unstoppable | Dark Knight | Motivational | BATMAN | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/UnstoppableDarkKnightMotivationalBATMAN3PieceSet_1.webp?v=1763380455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/unstoppable-dark-knight-motivational-batman-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A bold and powerful vertical poster inspired by the Dark Knight, featuring the striking “UNSTOPPABLE” typography and a gritty black-and-white hero silhouette. Designed to bring strength, resilience and raw attitude to any room setup.</p>
+<p>Printed on premium 300 GSM matte photo paper, this high-definition artwork delivers razor-sharp details, deep contrast and a smooth anti-glare finish—perfect for bedrooms, gaming rooms, studios or anyone who loves dark, motivational aesthetics.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>300gsm poster</s:tag>
+    <s:tag>3_split_DC</s:tag>
+    <s:tag>BATMAN</s:tag>
+    <s:tag>batman poster</s:tag>
+    <s:tag>BEST BATMAN POSTERS</s:tag>
+    <s:tag>BRUCE WAYNE</s:tag>
+    <s:tag>Christian Bale</s:tag>
+    <s:tag>cinematic artwork</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>dark aesthetic poster</s:tag>
+    <s:tag>dark knight</s:tag>
+    <s:tag>dark knight poster</s:tag>
+    <s:tag>DARK KNIGHT RISES</s:tag>
+    <s:tag>DC</s:tag>
+    <s:tag>DCU</s:tag>
+    <s:tag>gaming room decor</s:tag>
+    <s:tag>gotham inspired art</s:tag>
+    <s:tag>gothic room decor</s:tag>
+    <s:tag>hero silhouette art</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>motivational wall art</s:tag>
+    <s:tag>premium wall poster</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>set of 3</s:tag>
+    <s:tag>set poster</s:tag>
+    <s:tag>SET POSTERS</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>superhero poster</s:tag>
+    <s:tag>The batman</s:tag>
+    <s:tag>unstoppable poster</s:tag>
+    <s:tag>vertical poster</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9984323453224</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9984323453224</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9984323453224</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9865424306472</id>
+    <published>2025-10-27T16:38:12+05:30</published>
+    <updated>2025-10-27T16:38:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/vision-x-discipline-x-legacy-gym-motivational-set-3-piece-set"/>
+    <title>VISION x DISCIPLINE x LEGACY | GYM | Motivational Set | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/2_7ae5c109-b910-44a6-acd3-ca8228bd8248.webp?v=1761563285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/vision-x-discipline-x-legacy-gym-motivational-set-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>VISION x DISCIPLINE x LEGACY | GYM | Motivational Set | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>hustle</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9865424306472</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9865424306472</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9865424306472</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9835536843048</id>
+    <published>2025-09-26T15:29:51+05:30</published>
+    <updated>2025-09-26T15:29:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/try-again-quotes-motivational-poster"/>
+    <title>TRY AGAIN | Quotes | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/tryagainw.jpg?v=1758880793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/try-again-quotes-motivational-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>TRY AGAIN | Quotes | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>quotes</s:tag>
+    <s:tag>rich x risk</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835536843048</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835536843048</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835536843048</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835536843048</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9835521540392</id>
+    <published>2025-09-26T12:58:07+05:30</published>
+    <updated>2025-09-26T12:58:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/no-fear-quotes-motivational-poster"/>
+    <title>NO FEAR  | Quotes | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/NoFearww_e66566da-7c84-41ff-adc6-c99fb4e1c523.jpg?v=1758871688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/no-fear-quotes-motivational-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>NO FEAR  | Quotes | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>NO FEAR</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>rich x risk</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835521540392</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835521540392</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835521540392</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835521540392</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9835517739304</id>
+    <published>2025-09-26T12:25:40+05:30</published>
+    <updated>2025-09-26T12:25:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/focus-on-mission-quotes-motivational-poster-copy"/>
+    <title>RICH X RISK  | Quotes | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/RichxRiskwW.jpg?v=1758871505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/focus-on-mission-quotes-motivational-poster-copy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>RICH X RISK  | Quotes | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>NO FEAR</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>rich x risk</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517739304</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517739304</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517739304</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517739304</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9835517378856</id>
+    <published>2025-09-26T12:20:11+05:30</published>
+    <updated>2025-09-26T12:20:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/focus-on-mission-quotes-motivational-poster"/>
+    <title>FOCUS ON MISSION | Quotes | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/FOCUSONMISSIONwW.jpg?v=1758869246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/focus-on-mission-quotes-motivational-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>FOCUS ON MISSION | Quotes | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>focus on mission</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517378856</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517378856</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517378856</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835517378856</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9835516592424</id>
+    <published>2025-09-26T12:14:33+05:30</published>
+    <updated>2025-09-26T12:14:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/believe-quotes-motivational-poster"/>
+    <title>Believe | Quotes | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/BELIVEww.jpg?v=1758868985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/believe-quotes-motivational-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Believe | Quotes | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>believe</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835516592424</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835516592424</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835516592424</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9835516592424</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9694685462824</id>
+    <published>2025-06-28T19:20:21+05:30</published>
+    <updated>2025-06-28T19:20:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/aesthetic-blue-01-stickerized-5-stickers"/>
+    <title>Aesthetic Blue #01 | Stickerized | 5 Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/STICKERMOCK1_8b45461e-e963-4dc6-b835-a778669685cc.webp?v=1751118618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Aesthetic Blue #01 | Stickerized | 5 Stickers</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aesthetic</s:tag>
+    <s:tag>aesthetic stickers</s:tag>
+    <s:tag>BLUE</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>funny</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>gym sticker</s:tag>
+    <s:tag>lego</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9694685462824</id>
+      <title>Default Title</title>
+      <s:price currency="INR">49.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9694675992872</id>
+    <published>2025-06-28T18:32:38+05:30</published>
+    <updated>2025-06-28T18:32:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/gym-stickers-01-stickerized-5-stickers"/>
+    <title>Gym Stickers #01 | Stickerized | 5 Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/gym1.webp?v=1751115733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Gym Stickers #01 | Stickerized | 5 Stickers</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cute</s:tag>
+    <s:tag>funny</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>gym sticker</s:tag>
+    <s:tag>lego</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9694675992872</id>
+      <title>Default Title</title>
+      <s:price currency="INR">49.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9692534440232</id>
+    <published>2025-06-26T19:31:12+05:30</published>
+    <updated>2025-06-26T19:31:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/motivational-inspiration-stickers-01-stickerized-5-stickers"/>
+    <title>Motivational Inspiration Stickers #01 | Stickerized | 5 Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/STICKERMOCK2_045b33ab-670b-42b2-8eb0-fa2104e3fe76.webp?v=1750999942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Motivational Inspiration Stickers #01 | Stickerized | 5 Stickers</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aesthetic</s:tag>
+    <s:tag>CAR SHOWCASE</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>funny</s:tag>
+    <s:tag>lego</s:tag>
+    <s:tag>meme</s:tag>
+    <s:tag>motivational</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9692534440232</id>
+      <title>Default Title</title>
+      <s:price currency="INR">49.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9641908863272</id>
+    <published>2025-05-05T18:51:31+05:30</published>
+    <updated>2025-05-05T18:51:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/consistency-arnold-schwarzenegger-3-piece-set"/>
+    <title>Consistency | ARNOLD SCHWARZENEGGER | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-split_6967875b-9f95-4cc2-9d87-c5cb4f7852c8.jpg?v=1746451254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/consistency-arnold-schwarzenegger-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Consistency | ARNOLD SCHWARZENEGGER | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Motivation</s:tag>
+    <s:tag>Arnold Schwarzenegge</s:tag>
+    <s:tag>Arnold Schwarzenegger</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM POSTER</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9641908863272</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9641908863272</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9641908863272</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9600794755368</id>
+    <published>2025-03-21T12:23:00+05:30</published>
+    <updated>2025-03-21T12:23:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/best-in-the-world-cm-punk-01-3-piece-set"/>
+    <title>Best in the World | CM Punk #01 | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Wall-splitwhite_78937acd-ffec-4b83-80cb-e7a89e8f1fc8.jpg?v=1742539893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/best-in-the-world-cm-punk-01-3-piece-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Best in the World | CM Punk #01 | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3_split_Sport</s:tag>
+    <s:tag>3_split_wwe</s:tag>
+    <s:tag>best</s:tag>
+    <s:tag>best in the world</s:tag>
+    <s:tag>CAR SHOWCASE</s:tag>
+    <s:tag>cm punk</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM POSTER</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>JUSTICE</s:tag>
+    <s:tag>otc</s:tag>
+    <s:tag>punk</s:tag>
+    <s:tag>raw</s:tag>
+    <s:tag>roman reigns</s:tag>
+    <s:tag>SETH FREAKING ROLLINS</s:tag>
+    <s:tag>SHIELD</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>smackdown</s:tag>
+    <s:tag>SPLIT</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:tag>wrestling</s:tag>
+    <s:tag>wwe</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9600794755368</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9600794755368</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9600794755368</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9521307681064</id>
+    <published>2024-12-18T19:21:54+05:30</published>
+    <updated>2024-12-18T19:21:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/conquer-arnold-schwarzenegger-motivation-set-pack-of-3"/>
+    <title>CONQUER | ARNOLD SCHWARZENEGGER | 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/newwallsplit_b1db0b4f-68d7-4fee-a025-c5a2c0ceb6f0.jpg?v=1736616669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 449.00
+            <a href="https://www.posterized.in/products/conquer-arnold-schwarzenegger-motivation-set-pack-of-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>CONQUER | ARNOLD SCHWARZENEGGER | 3 Piece Set</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-Piece Poster Set</s:tag>
+    <s:tag>3_split_Car</s:tag>
+    <s:tag>archive_by_ram</s:tag>
+    <s:tag>Arnold Schwarzenegge</s:tag>
+    <s:tag>Arnold Schwarzenegger</s:tag>
+    <s:tag>COMBO</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM POSTER</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>motivational movie</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>sizechart-3-landscape</s:tag>
+    <s:tag>sizechart-3-vertical</s:tag>
+    <s:tag>SPLIT POSTER</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9521307681064</id>
+      <title>A4</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9521307681064</id>
+      <title>A3</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku/>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9521307681064</id>
+      <title>13X19&quot;</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku/>
+      <s:grams>138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9476333240616</id>
+    <published>2024-10-22T16:02:31+05:30</published>
+    <updated>2024-10-22T16:02:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/gym-motivation-poster-4"/>
+    <title>CBUM Classic Olympia | Gym | Motivation Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/CBUMw1.jpg?v=1736617708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/gym-motivation-poster-4">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>CBUM Classic Olympia | Gym | Motivation Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cbum</s:tag>
+    <s:tag>Chris Bumstead</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>GYM POSTER</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9476333240616</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9476333240616</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9476333240616</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9476333240616</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/8664016388392</id>
+    <published>2024-10-09T21:13:34+05:30</published>
+    <updated>2024-10-09T21:13:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/copy-of-again-again-gain-gym-set-motivational-poster"/>
+    <title>Arnold Schwarzenegger Signature | GYM SET | Motivational Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/ARNOLDw1.jpg?v=1736616688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/copy-of-again-again-gain-gym-set-motivational-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Arnold Schwarzenegger Signature | GYM SET | Motivational Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AGAIN GAIN</s:tag>
+    <s:tag>GYM POSTER</s:tag>
+    <s:tag>GYM SET</s:tag>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/8664016388392</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8664016388392</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8664016388392</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/8664016388392</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465927074088</id>
+    <published>2024-10-09T20:11:34+05:30</published>
+    <updated>2024-10-09T20:11:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/life-is-not-easy-just-fight-motivational-gym-quotes-poster"/>
+    <title>Life is Not EASY Just FIGHT | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/LIFEw2.jpg?v=1736617952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/life-is-not-easy-just-fight-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Life is Not EASY Just FIGHT | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465927074088</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465927074088</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465927074088</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465927074088</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465925566760</id>
+    <published>2024-10-09T20:08:23+05:30</published>
+    <updated>2024-10-09T20:08:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/do-more-motivational-gym-quotes-poster"/>
+    <title>DO MORE | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/DOMKOREw2.jpg?v=1736617547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/do-more-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>DO MORE | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925566760</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925566760</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925566760</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925566760</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465925042472</id>
+    <published>2024-10-09T20:07:39+05:30</published>
+    <updated>2024-10-09T20:07:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/fearless-motivational-gym-quotes-poster"/>
+    <title>FEARLESS | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/FEARsw2.jpg?v=1736617589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/fearless-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>FEARLESS | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925042472</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925042472</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925042472</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465925042472</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465924682024</id>
+    <published>2024-10-09T20:06:38+05:30</published>
+    <updated>2024-10-09T20:06:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/why-not-motivational-gym-quotes-poster"/>
+    <title>WHY NOT | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/Whyw1.jpg?v=1736618732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/why-not-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>WHY NOT | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924682024</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924682024</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924682024</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924682024</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465924157736</id>
+    <published>2024-10-09T20:05:43+05:30</published>
+    <updated>2024-10-09T20:05:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/yes-you-can-motivational-gym-quotes-poster"/>
+    <title>YES YOU CAN | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/youw2.jpg?v=1736618789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/yes-you-can-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>YES YOU CAN | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924157736</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924157736</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924157736</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465924157736</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465922617640</id>
+    <published>2024-10-09T20:04:39+05:30</published>
+    <updated>2024-10-09T20:04:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/motivational-gym-quotes-poster"/>
+    <title>Everyday is a chance to be Better | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/CHANCEw2.jpg?v=1736618088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>Everyday is a chance to be Better | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922617640</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922617640</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922617640</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922617640</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.posterized.in/products/9465922388264</id>
+    <published>2024-10-09T20:01:50+05:30</published>
+    <updated>2024-10-09T20:01:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.posterized.in/products/there-is-no-finish-line-motivational-gym-quotes-poster"/>
+    <title>There is No Finish Line | Motivational Gym Quotes Poster</title>
+    <s:type>Poster</s:type>
+    <s:vendor>Posterized</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0758/7246/9288/files/FINISHw2.jpg?v=1736618597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posterized<br>
+        <strong>Type: </strong>Poster<br>
+        <strong>Price: </strong>
+            79.00 - 169.00
+            <a href="https://www.posterized.in/products/there-is-no-finish-line-motivational-gym-quotes-poster">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium high-definition wall poster of <strong>There is No Finish Line | Motivational Gym Quotes Poster</strong>, designed to instantly upgrade the aesthetic of your room.</p>
+<p>Printed on ultra-thick 300 GSM matte photo paper for rich colours, sharp detailing and a soft anti-glare finish. Long-lasting, fade-resistant and crafted to give your wall a clean, premium look with zero effort.</p>
+<p>This poster blends perfectly into bedroom, living room, gaming setup or workspace décor. Easy to frame, perfect for collage walls, and ideal for anyone who loves aesthetic room vibes, minimal design and high-quality prints.</p>
+<p>A great pick for personal use or gifting — made to match your vibe and elevate your space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTIVATIONAL POSTER</s:tag>
+    <s:tag>quotes</s:tag>
+    <s:tag>sizechart-single</s:tag>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922388264</id>
+      <title>A4</title>
+      <s:price currency="INR">119.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922388264</id>
+      <title>A5</title>
+      <s:price currency="INR">79.00</s:price>
+      <s:sku/>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922388264</id>
+      <title>A3</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku/>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.posterized.in/products/9465922388264</id>
+      <title>13x19&quot;</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku/>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+</feed>
