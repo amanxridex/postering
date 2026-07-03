@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             localStorage.setItem('postering_cart', JSON.stringify(cart));
-            window.location.href = '/www.posterized.in/cart.html';
+            window.location.href = '/cart.html';
         });
         
         const submitBtn = form.querySelector('button[type="submit"]');
@@ -183,3 +183,4 @@ window.removeCartItem = function(index) {
     localStorage.setItem('postering_cart', JSON.stringify(cart));
     renderCart();
 };
+
