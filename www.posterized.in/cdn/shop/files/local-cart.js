@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const variantTitle = activeVariant ? activeVariant.value : 'Default Title';
             
             // Read price
-            const priceElement = document.querySelector('.price-item--regular') || document.querySelector('.price__regular .price-item');
+            const priceElement = document.querySelector('.price__regular .price-item--regular') || document.querySelector('.price-item--regular');
             let price = 0;
             if (priceElement) {
                 price = parseFloat(priceElement.innerText.replace(/[^\d.]/g, '')) || 0;
@@ -68,9 +68,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 2. Fix Variant Selection Bug
     // We use a MutationObserver to instantly fix the price when the native Shopify theme script tries to hide/clear it.
+    const priceParent = document.querySelector('[id^="price-"]');
     const priceContainer = document.querySelector('.price');
-    if (priceContainer) {
-        const observer = new MutationObserver(() => {
+    
+    if (priceParent && priceContainer) {
+        const updatePrice = () => {
             const activeVariant = document.querySelector('fieldset input:checked');
             if (activeVariant) {
                 const variantTitle = activeVariant.value;
@@ -80,28 +82,30 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 if (match) {
                     const price = parseInt(match[2]) / 100;
-                    const priceElement = priceContainer.querySelector('.price-item--regular');
+                    
+                    if (priceParent.classList.contains('visibility-hidden')) {
+                        priceParent.classList.remove('visibility-hidden');
+                    }
+                    
+                    priceContainer.classList.remove('price--sold-out', 'price--on-sale');
+                    
+                    const priceElement = priceContainer.querySelector('.price__regular .price-item--regular');
                     if (priceElement && !priceElement.innerText.includes(price.toFixed(2))) {
                         priceElement.innerText = 'Rs. ' + price.toFixed(2);
-                        priceContainer.classList.remove('price--sold-out', 'price--on-sale');
                     }
                 }
             }
+        };
+
+        const observer = new MutationObserver(() => {
+            updatePrice();
         });
-        observer.observe(priceContainer, { childList: true, subtree: true, characterData: true });
+        observer.observe(priceParent, { childList: true, subtree: true, attributes: true, attributeFilter: ['class'] });
         
         // Also force an update immediately on variant click just in case
         document.addEventListener('change', (e) => {
             if (e.target.matches('fieldset input[type="radio"]')) {
-                const variantTitle = e.target.value;
-                const escapedValue = variantTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                const regex = new RegExp({"id":(\\d+),"title":" + escapedValue + ".*?"price":(\\d+));
-                const match = document.documentElement.innerHTML.match(regex);
-                if (match) {
-                    const price = parseInt(match[2]) / 100;
-                    const priceElement = priceContainer.querySelector('.price-item--regular');
-                    if (priceElement) priceElement.innerText = 'Rs. ' + price.toFixed(2);
-                }
+                setTimeout(updatePrice, 50);
             }
         });
     }
