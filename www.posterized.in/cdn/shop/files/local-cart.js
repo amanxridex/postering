@@ -7,19 +7,34 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             e.stopImmediatePropagation();
             
-            // Extract data
             const titleElement = document.querySelector('h1') || document.querySelector('.product__title');
             const title = titleElement ? titleElement.innerText.trim() : 'Unknown Product';
             
-            const priceElement = document.querySelector('.price-item--regular') || document.querySelector('.price__regular .price-item');
-            const priceText = priceElement ? priceElement.innerText.trim() : '0';
-            const price = parseFloat(priceText.replace(/[^\d.]/g, '')) || 0;
-            
-            const variantInput = form.querySelector('input[name="id"]');
-            const variantId = variantInput ? variantInput.value : Date.now().toString();
-            
             const activeVariant = document.querySelector('fieldset input:checked');
             const variantTitle = activeVariant ? activeVariant.value : 'Default Title';
+            
+            // Read price
+            const priceElement = document.querySelector('.price-item--regular') || document.querySelector('.price__regular .price-item');
+            let price = 0;
+            if (priceElement) {
+                price = parseFloat(priceElement.innerText.replace(/[^\d.]/g, '')) || 0;
+            }
+            
+            // Read variant ID
+            const variantInput = form.querySelector('input[name="id"]');
+            let variantId = variantInput ? variantInput.value : '';
+            
+            // Fallback: extract price and ID from HTML JSON if missing/broken
+            const escapedValue = variantTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp({"id":(\\d+),"title":" + escapedValue + ".*?"price":(\\d+));
+            const match = document.documentElement.innerHTML.match(regex);
+            
+            if (match) {
+                if (!variantId || variantId === '') variantId = match[1];
+                if (price === 0) price = parseInt(match[2]) / 100;
+            } else if (!variantId || variantId === '') {
+                variantId = Date.now().toString();
+            }
             
             const imageElement = document.querySelector('.product__media img') || document.querySelector('img');
             const image = imageElement ? imageElement.src : '';
@@ -50,8 +65,48 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
     });
+
+    // 2. Fix Variant Selection Bug
+    // We use a MutationObserver to instantly fix the price when the native Shopify theme script tries to hide/clear it.
+    const priceContainer = document.querySelector('.price');
+    if (priceContainer) {
+        const observer = new MutationObserver(() => {
+            const activeVariant = document.querySelector('fieldset input:checked');
+            if (activeVariant) {
+                const variantTitle = activeVariant.value;
+                const escapedValue = variantTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const regex = new RegExp({"id":(\\d+),"title":" + escapedValue + ".*?"price":(\\d+));
+                const match = document.documentElement.innerHTML.match(regex);
+                
+                if (match) {
+                    const price = parseInt(match[2]) / 100;
+                    const priceElement = priceContainer.querySelector('.price-item--regular');
+                    if (priceElement && !priceElement.innerText.includes(price.toFixed(2))) {
+                        priceElement.innerText = 'Rs. ' + price.toFixed(2);
+                        priceContainer.classList.remove('price--sold-out', 'price--on-sale');
+                    }
+                }
+            }
+        });
+        observer.observe(priceContainer, { childList: true, subtree: true, characterData: true });
+        
+        // Also force an update immediately on variant click just in case
+        document.addEventListener('change', (e) => {
+            if (e.target.matches('fieldset input[type="radio"]')) {
+                const variantTitle = e.target.value;
+                const escapedValue = variantTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const regex = new RegExp({"id":(\\d+),"title":" + escapedValue + ".*?"price":(\\d+));
+                const match = document.documentElement.innerHTML.match(regex);
+                if (match) {
+                    const price = parseInt(match[2]) / 100;
+                    const priceElement = priceContainer.querySelector('.price-item--regular');
+                    if (priceElement) priceElement.innerText = 'Rs. ' + price.toFixed(2);
+                }
+            }
+        });
+    }
     
-    // 2. Render Cart on cart.html
+    // 3. Render Cart on cart.html
     if (window.location.pathname.includes('cart.html')) {
         renderCart();
     }
@@ -90,31 +145,31 @@ function renderCart() {
         total += item.price * item.quantity;
         const tr = document.createElement(tbody.tagName.toLowerCase() === 'tbody' ? 'tr' : 'div');
         tr.className = 'cart-item';
-        tr.innerHTML = `
+        tr.innerHTML = 
             <td class="cart-item__media">
-                ${item.image ? `<img src="${item.image}" alt="${item.title}" class="cart-item__image" width="100">` : ''}
+                
             </td>
             <td class="cart-item__details">
-                <a href="#" class="cart-item__name h4 break">${item.title}</a>
-                <div class="product-option">${item.variantTitle !== 'Default Title' ? item.variantTitle : ''}</div>
+                <a href="#" class="cart-item__name h4 break"> + item.title + </a>
+                <div class="product-option"> + (item.variantTitle !== 'Default Title' ? item.variantTitle : '') + </div>
                 <div class="cart-item__price-wrapper">
-                    <span class="price price--end">Rs. ${item.price.toFixed(2)}</span>
+                    <span class="price price--end">Rs.  + item.price.toFixed(2) + </span>
                 </div>
             </td>
             <td class="cart-item__quantity">
                 <div class="cart-item__quantity-wrapper">
-                    <span style="padding: 1rem;">Qty: ${item.quantity}</span>
+                    <span style="padding: 1rem;">Qty:  + item.quantity + </span>
                     <cart-remove-button>
-                        <a href="#" class="button button--tertiary" onclick="removeCartItem(${index}); return false;">Remove</a>
+                        <a href="#" class="button button--tertiary" onclick="removeCartItem( + index + ); return false;">Remove</a>
                     </cart-remove-button>
                 </div>
             </td>
             <td class="cart-item__totals right">
                 <div class="cart-item__price-wrapper">
-                    <span class="price price--end">Rs. ${(item.price * item.quantity).toFixed(2)}</span>
+                    <span class="price price--end">Rs.  + (item.price * item.quantity).toFixed(2) + </span>
                 </div>
             </td>
-        `;
+        ;
         tbody.appendChild(tr);
     });
     
