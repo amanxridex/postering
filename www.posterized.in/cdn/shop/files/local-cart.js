@@ -67,14 +67,18 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // 2. Fix Variant Selection Bug
-    // We use a MutationObserver to instantly fix the price when the native Shopify theme script tries to hide/clear it.
-    const priceParent = document.querySelector('[id^="price-"]');
-    const priceContainer = document.querySelector('.price');
-    
-    if (priceParent && priceContainer) {
-        const updatePrice = () => {
+    // We prevent Shopify's broken JS from executing in the first place by stopping propagation
+    const variantSelectsElements = document.querySelectorAll('variant-selects, variant-radios');
+    variantSelectsElements.forEach(el => {
+        el.addEventListener('change', (e) => {
+            // Stop Shopify's global.js from fetching a non-existent backend URL which breaks the DOM
+            e.stopImmediatePropagation();
+            e.stopPropagation();
+            
+            // Handle the price update ourselves
             const activeVariant = document.querySelector('fieldset input:checked');
-            if (activeVariant) {
+            const priceContainer = document.querySelector('.price');
+            if (activeVariant && priceContainer) {
                 const variantTitle = activeVariant.value;
                 const escapedValue = variantTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
                 const regex = new RegExp({"id":(\\d+),"title":" + escapedValue + ".*?"price":(\\d+));
@@ -83,31 +87,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (match) {
                     const price = parseInt(match[2]) / 100;
                     
-                    if (priceParent.classList.contains('visibility-hidden')) {
-                        priceParent.classList.remove('visibility-hidden');
-                    }
+                    priceContainer.classList.remove('price--sold-out', 'price--on-sale', 'visibility-hidden');
                     
-                    priceContainer.classList.remove('price--sold-out', 'price--on-sale');
-                    
-                    const priceElement = priceContainer.querySelector('.price__regular .price-item--regular');
-                    if (priceElement && !priceElement.innerText.includes(price.toFixed(2))) {
+                    const priceElement = priceContainer.querySelector('.price__regular .price-item--regular') || priceContainer.querySelector('.price-item--regular');
+                    if (priceElement) {
                         priceElement.innerText = 'Rs. ' + price.toFixed(2);
                     }
                 }
             }
-        };
-
-        const observer = new MutationObserver(() => {
-            updatePrice();
-        });
-        observer.observe(priceParent, { childList: true, subtree: true, attributes: true, attributeFilter: ['class'] });
-        
-        // Also force an update immediately on variant click just in case
-        document.addEventListener('change', (e) => {
-            if (e.target.matches('fieldset input[type="radio"]')) {
-                setTimeout(updatePrice, 50);
-            }
-        });
+        }, true); // TRUE means capture phase - we intercept it BEFORE Shopify gets it!
+    });
+    
+    // Also protect the price parent ID just in case
+    const priceParent = document.querySelector('[id^="price-template--"]');
+    if (priceParent) {
+        priceParent.id = priceParent.id + '-protected';
     }
     
     // 3. Render Cart on cart.html
