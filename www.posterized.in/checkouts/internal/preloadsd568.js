@@ -5,7 +5,7 @@
       var styles = [];
       var fontPreconnectUrls = [];
       var fontPrefetchUrls = [];
-      var imgPrefetchUrls = ["https://cdn.shopify.com/s/files/1/0758/7246/9288/files/POSTERING_LOGO_x320.png?v=1724770303"];
+      var imgPrefetchUrls = ["https://cdn.shopify.com/s/files/1/0758/7246/9288/files/POSTERIZED_LOGO_x320.png?v=1724770303"];
 
       function preconnect(url, callback) {
         var link = document.createElement('link');
